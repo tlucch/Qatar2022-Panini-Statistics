@@ -7,7 +7,9 @@ The "No trading" code generates 1000 simluations in which each person can't trad
 
 ### First Results
 
-The fisrt time the simluation was runned, the following chart was generated
+The fisrt time the simluation was runned, the following chart was generated:
+
+<img src = "Plot%20First%20Run%20No%20Trading.PNG" width = 500 height = 500>
 
 ![](Plot%20First%20Run%20No%20Trading.PNG)
 
