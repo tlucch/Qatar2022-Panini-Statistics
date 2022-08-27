@@ -9,9 +9,18 @@ The "No trading" code generates 1000 simluations in which each person can't trad
 
 The fisrt time the simluation was runned, the following chart was generated:
 
-<img src = "Plot%20First%20Run%20No%20Trading.PNG" width = 500 height = 500>
 
-![](Plot%20First%20Run%20No%20Trading.PNG)
+<p align = "center">
+  <img src = "Plot%20First%20Run%20No%20Trading.PNG" width = 500>
+</p>
+
+
+This chart shows a normal distribution having its Mean at more or less 4500 stickers. We can confirm this after seeing the Descriptive Statistics results:
+
+* `Mean` : 4474
+* `Standard Deviation`: 815
+
+This means that 68.2% of the simluations made needed to buy between 3659 and 5289 stickers in order to finish the album.
 
 ## Trading
 
