@@ -60,7 +60,7 @@ for i in range(0,1000):
 #Generation of histogram
 sns.set(style = "white")
 p = sns.histplot(data=count_rounds, binwidth = 100, kde = True)
-p.set_xlabel("Cantidad de Figuritas")
+p.set_xlabel("Amount of Stickers")
 p.set_ylabel("")
 
 #Print mean and standard deviation
