@@ -21,7 +21,3 @@ This chart shows a normal distribution having its Mean at more or less 4500 stic
 * `Standard Deviation`: 815
 
 This means that 68.2% of the simluations made needed to buy between 3659 and 5289 stickers in order to finish the album.
-
-## Trading
-
-The "Trading" code is still in development. In this simulation trading is allowed between participants. The objective is to know how many stickers are needed to buy to complete the album when you can trade stickers with other people.
